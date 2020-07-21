@@ -1,0 +1,1 @@
+![David Sharp](./davidsharp.svg)
