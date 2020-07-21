@@ -1,1 +1,1 @@
-![David Sharp](./davidsharp.svg)
+![David Sharp](https://github.com/davidsharp/davidsharp/blob/master/davidsharp.svg)
